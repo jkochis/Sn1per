@@ -1,5 +1,3 @@
-![alt tag](https://github.com/1N3/Sn1per/blob/master/Sn1per-logo.jpg)
-
 ## ABOUT:
 Sn1per is an automated scanner that can be used during a penetration test to enumerate and scan for vulnerabilities. 
 
@@ -46,8 +44,8 @@ https://hub.docker.com/r/menzo/sn1per-docker/builds/bqez3h7hwfun4odgd2axvn4/
 
 Example usage:
 ```
-$ docker pull menzo/sn1per-docker
-$ docker run --rm -ti menzo/sn1per-docker sniper menzo.io
+$ docker pull jkochis/sn1per-docker
+$ docker run --rm -ti jkochis/sn1per-docker sniper <target>
 ```
 
 ## USAGE:
