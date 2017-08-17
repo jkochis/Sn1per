@@ -37,10 +37,10 @@ Sn1per is an automated scanner that can be used during a penetration test to enu
 ## DOCKER INSTALL:
 
 Docker Install:
-https://github.com/menzow/sn1per-docker
+https://github.com/jkochis/sn1per-docker
 
 Docker Build:
-https://hub.docker.com/r/menzo/sn1per-docker/builds/bqez3h7hwfun4odgd2axvn4/
+https://hub.docker.com/r/jkochis/sn1per-docker/builds/bqez3h7hwfun4odgd2axvn4/
 
 Example usage:
 ```
